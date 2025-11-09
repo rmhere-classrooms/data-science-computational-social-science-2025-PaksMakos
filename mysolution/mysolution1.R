@@ -1,4 +1,5 @@
 library(igraph)
+set.seed(54)
 
 n <- 100
 p <- 0.05
