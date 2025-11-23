@@ -1,0 +1,13 @@
+name: mysolution
+title: mysolution
+username: mpakos
+account: mpakos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16151783
+bundleId: 11222233
+url: https://mpakos.shinyapps.io/mysolution/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: AppURL.txt|mysolution1.R|mysolution2.R|mysolution3_pom.R|Rplot.png
